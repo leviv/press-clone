@@ -1,5 +1,43 @@
-$body-color: red;
+$black: rgb(61, 61, 61);
 
 body {
-  color: $body-color;
+  background: rgb(150, 220, 237);
+  color: $black;
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p.author-name {
+  font-style: italic;
+
+  &::after {
+    background: $black;
+    content: "";
+    display: block;
+    height: 1px;
+    margin: 20px 0;
+    width: 60px;
+  }
+}
+
+h2.author {
+  align-items: center;
+  display: flex;
+  font-style: italic;
+  font-weight: 700;
+
+  &::before {
+    background: $black;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    margin: 0 20px 0 0;
+    width: 60px;
+  }
 }
