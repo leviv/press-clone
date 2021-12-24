@@ -1,0 +1,779 @@
+[
+  {
+    "author": {
+      "name": "J. Storrs Hall",
+      "bio": "J. Storrs Hall, Ph.D., is an independent scientist and author. He was the founding chief scientist of Nanorex, Inc. and a president of the Foresight Institute and is currently a research fellow at the Institute for Molecular Manufacturing and an associate editor of the _International Journal of Nanotechnology and Molecular Computation_. He was also accredited as an expert reviewer for the Intergovernmental Panel on Climate Change in the field of computational climate models. His previous books include _Beyond AI: Creating the Conscience of the Machine_ and _Nanofuture: What’s Next for Nanotechnology_. Now residing on Chesapeake Bay, he dabbles in aerodynamics design under the auspices of Eastern Shore Flying Cars, LLC."
+    },
+    "buyPath": "https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182",
+    "description": "An impassioned account of technological stagnation that outlines a blueprint for a bolder future.",
+    "material": {
+      "shininess": 8,
+      "thickness": 2.85,
+      "diffuseMapCustom": "WIMFC_diffuse",
+      "diffuseBaseColor": [0.471, 0.467, 0.467],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.04,
+      "bumpMapCustom": "WIMFC_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "WIMFC_foil",
+      "foilDetail": 1,
+      "foilSpecular": 0.3,
+      "foilOpacity": 0.85,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#3D3D3D",
+      "backgroundColor": "#96DCED",
+      "coverColor": "#7F8181"
+    },
+    "praiseList": [
+      {
+        "name": "Jason Crawford",
+        "quote": "There are many writers with optimistic visions of the future. However, the goals I most often hear are all the negation of negatives: cure cancer, eliminate poverty, stop climate change.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;. This is good, but it is not enough. [These techno-optimists] are content with bringing the whole world up to the current best standard of living, but not increasing it. In this context, I found _Where Is My Flying Car?_ refreshing. Hall unabashedly calls for unlimited progress in every dimension.",
+        "role": "founder and CEO of [Roots of Progress](https://rootsofprogress.org/where-is-my-flying-car)"
+      },
+      {
+        "name": "Tyler Cowen",
+        "quote": "One of the best and most interesting books on technology.",
+        "role": "professor of economics at George Mason University and cowriter of [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/09/where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall.html)"
+      },
+      {
+        "name": "David Brin",
+        "quote": "Whether there is ‘tech stagnation’ or a revolution about to swarm the skies, _Where Is My Flying Car?_ offers piercing questions and answers about what it might take to make the dream come true.",
+        "role": "author of _Existence_ and _The Postman_"
+      }
+    ],
+    "price": 24,
+    "productType": "book",
+    "slug": "where-is-my-flying-car",
+    "summary": "In _Where Is My Flying Car?_, engineer and futurist J. Storrs Hall sets out to answer the deceptively simple question posed in the book’s title. What starts as an exploration of the technical limitations of building flying cars evolves into an examination of the global economic stagnation that started in the 1970s. From the failure to adopt nuclear energy and the suppression of cold fusion and nanotechnology to the rise of a counterculture hostile to progress, Hall recounts how our collective ambitions for the future were derailed, with devastating consequences for global wealth creation and distribution. Hall then outlines a framework for a future powered by exponential progress—one in which we build as much in the world of atoms as we do in the world of bits, one rich in abundance and wonder.",
+    "title": "Where Is My Flying Car?",
+    "zine": {
+      "cover": "https://images.ctfassets.net/fzn2n1nzq965/1aAb4JhTplUL2DgBBXT865/c802a5a7d3ba32ca24ef06394116aa0d/WIMFC_zine.png",
+      "coverQuality": 100,
+      "pdf": "https://assets.ctfassets.net/fzn2n1nzq965/gvGjITBASGMh5bnTje5sn/84fd24a3d1a46f15e4e599d89051ed68/The_Future_We_Were_Promised_by_J._Storrs_Hall.pdf"
+    }
+  },
+  {
+    "author": {
+      "name": "Michael S. Malone",
+      "bio": "Michael S. Malone has covered Silicon Valley and tech for over 30 years. His articles and editorials have appeared in the _Wall Street Journal_, _Economist_, _Fortune_, _New York Times_, and _San Jose Mercury-News_. He has written or co-authored more than 25 award-winning books, including _Bill and Dave_ and _The Intel Trinity_, and coproduced _The New Heroes_, an Emmy-nominated miniseries on social entrepreneurs. He lives in Palo Alto, California."
+    },
+    "buyPath": "https://www.amazon.com/dp/1953953166",
+    "description": "A panoramic history of Silicon Valley, from the birth of the semiconductor to the rise of the personal computer.",
+    "material": {
+      "shininess": 7,
+      "thickness": 3.4,
+      "diffuseMapCustom": "TBS_diffuse",
+      "diffuseBaseColor": [0.086, 0.122, 0.196],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.06,
+      "bumpMapCustom": "TBS_bump",
+      "bumpScaleCustom": 0.05,
+      "foilMap": "TBS_foil",
+      "foilDetail": 3,
+      "foilSpecular": 0.4,
+      "foilOpacity": 1.5,
+      "reflectiveness": 0.2
+    },
+    "palette": {
+      "color": "#E48244",
+      "backgroundColor": "#442C25",
+      "coverColor": "#2C3344"
+    },
+    "praiseList": [
+      {
+        "name": "Jeff Skoll",
+        "quote": "Mike Malone’s epic depiction of Silicon Valley was a calling card for me and countless other young entrepreneurs with a background in tech. Malone’s stories captured the essence of Valley culture and the many outsize personalities who helped create this mecca of tech. Years later, this book is still relevant, and offers insights into the Valley and its ongoing place in the world.",
+        "role": "first president of eBay"
+      },
+      {
+        "name": "Sandy Kurtzig",
+        "quote": "Mike Malone is the gold standard for telling Silicon Valley’s history. He has witnessed the evolution of the Valley from fruit groves to office parks, and has catalogued the world’s dependency on the Valley’s innovative technology. Experience the growth of Silicon Valley through the eyes of a pioneer, friend, reporter, and mentor to so many of us early Valley entrepreneurs.",
+        "role": "founder, CEO, and chairman of ASK Group"
+      },
+      {
+        "name": "John Hennessy",
+        "quote": "From the Valley’s deep roots in the semiconductor industry to the rise of startups and venture capital, and the emergence of new models of management, _The Big Score_ documents the beginnings of a technological transformation. When the book was first published, the microprocessor was kick-starting the computer industry. Today, our greatest innovators continue to build on the work of these early pioneers.",
+        "role": "president emeritus of Stanford University and chairman, Alphabet Inc."
+      }
+    ],
+    "price": 24,
+    "productType": "book",
+    "slug": "the-big-score",
+    "summary": "While Silicon Valley is synonymous with software, its beginnings were driven by a need for a better class of hardware. Michael S. Malone’s _The Big Score_ is a panoramic history of Silicon Valley’s founding days—written as they were still playing out in 1985. One of the first reporters on the tech industry beat, Malone recounts the feverish efforts of technologists and entrepreneurs to build something that would change the world. Starting with the birth of the semiconductor in the 1930s, he illustrates how decades of technological innovation laid the foundation for the meteoric rise of the Valley in the 1970s. Malone punctuates this history with profiles of tech’s early builders, capturing the high-agency spirit that shaped the electronics revolution. A decades-long story with individual sacrifice and ingenuity at its core, _The Big Score_ recounts the history of today’s most dynamic sector through its upstart beginnings.",
+    "title": "The Big Score: The Billion Dollar Story of Silicon Valley",
+    "shortTitle": "The Big Score",
+    "zine": {
+      "cover": "https://images.ctfassets.net/fzn2n1nzq965/2rrvfUSUQfZA4ukboUlQSs/2406078e7261acb1d39976746686d3f9/stbob__1_.png",
+      "coverQuality": 100,
+      "pdf": "https://assets.ctfassets.net/fzn2n1nzq965/3gAko69pEeJOYnOPNGQ4Az/9e762faf9ae6767362892b1a4abac165/St-Bob_Zine.pdf"
+    }
+  },
+  {
+    "author": {
+      "name": "Donald W. Braben",
+      "bio": "Donald W. Braben is a scientist and author. From 1980 to 1990, he led British Petroleum’s Venture Research program, for which he developed a radical, low-cost approach to finding and funding researchers whose work might redefine their fields. He currently holds an honorary position at University College London."
+    },
+    "buyPath": "https://www.amazon.com/dp/0578675919/",
+    "description": "A revolutionary and timely framework to find and support scientific innovation.",
+    "material": {
+      "shininess": 10,
+      "thickness": 2.4,
+      "diffuseMapCustom": "SF_diffuse",
+      "diffuseBaseColor": [0.588, 0.584, 0.604],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.03,
+      "bumpMapCustom": "SF_bump",
+      "bumpScaleCustom": 0.02,
+      "foilMap": "SF_foil",
+      "foilDetail": 4,
+      "foilSpecular": 0.6,
+      "foilOpacity": 1.5,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#FF4445",
+      "backgroundColor": "#222222",
+      "coverColor": "#999C9F"
+    },
+    "praiseList": [
+      {
+        "name": "Dudley Herschbach",
+        "quote": "A superb book, both inspiring and provocative. Braben strives to ensure that the most creative scientists, if completely free to pursue unorthodox research, will aim to attain the ‘elixir of civilization.’",
+        "role": "Nobel Prize in Chemistry 1986"
+      },
+      {
+        "name": "Sir Richard J. Roberts",
+        "quote": "All scientists, granting agencies, and policymakers should read this refreshing book and respond to the need to change current funding paradigms.",
+        "role": "Nobel Prize in Physiology or Medicine 1993"
+      },
+      {
+        "name": "Sir Martyn Poliakoff",
+        "quote": "Braben has long held visionary views of how to fund the most innovative and creative science. It cannot be denied that, with the right financial support, his approach can be made to work spectacularly.",
+        "role": "University of Nottingham, Michael Faraday Prize 2019"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "[Ben Reinhardt](https://twitter.com/Ben_Reinhardt/status/1326707903714226176)",
+        "quote": "A sobering (but hopeful!) exploration of the stagnation in what I would call ‘paradigm shifting research’ and what to do about it."
+      },
+      {
+        "name": "_[Quarterly Review of Biology](https://www.journals.uchicago.edu/doi/10.1086/592853)_",
+        "quote": "Braben does an excellent job of highlighting the need to reassess the selection criteria used to decide what scientific projects receive funding."
+      }
+    ],
+    "price": 23,
+    "productType": "book",
+    "slug": "scientific-freedom",
+    "summary": "So rich was the scientific harvest of the early 20th century that it transformed entire industries and economies. Max Planck laid the foundation for quantum physics, Barbara McClintock for modern genetics, Linus Pauling for chemistry—the list goes on. But in the 1970s, the nature and pace of scientific discovery began to stagnate due to a combination of peer review, mandated justification of spending, and the push for short-term miracles. In _Scientific Freedom_, first published in 2008, Donald W. Braben presents a framework to find and support transformative scientific innovation. Even in the earliest stages, groundbreaking research can look unrecognizable to those who are accustomed to the patterns established by the past. As Braben argues, support for this research requires rethinking the processes used to discover and sponsor scientists with revolutionary ideas—and then giving them the freedom to explore.",
+    "title": "Scientific Freedom: The Elixir of Civilization",
+    "shortTitle": "Scientific Freedom"
+  },
+  {
+    "author": {
+      "name": "Nadia Eghbal",
+      "bio": "Nadia Eghbal is a writer and researcher who explores how the internet enables individual creators. From 2015 to 2019, she worked independently and at GitHub to improve the open source developer experience. She is the author of “Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure,” published by the Ford Foundation.",
+      "links": [
+        { "label": "Website", "url": "https://nadiaeghbal.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/nayafia" },
+        { "label": "Newsletter", "url": "http://nayafia.substack.com/" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/dp/0578675862/",
+    "description": "An inside look at modern open source software developers—and their influence on our online world.",
+    "material": {
+      "shininess": 8,
+      "thickness": 2.4,
+      "diffuseMapCustom": "WIP_diffuse",
+      "diffuseBaseColor": [0.902, 0.188, 0.145],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.04,
+      "bumpMapCustom": "WIP_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "shared_foil_none",
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#0B1743",
+      "backgroundColor": "#FFB55E",
+      "coverColor": "#ED4B37"
+    },
+    "praiseList": [
+      {
+        "name": "Nat Friedman",
+        "quote": "Nadia writes from a unique perspective at the intersection of open source, economics, and poetry. This is the definitive book on the dynamics of online creative communities.",
+        "role": "CEO of GitHub"
+      },
+      {
+        "name": "Devon Zuegel",
+        "quote": "Nadia is one of today’s most nuanced thinkers about the depth and potential of online communities. This book could not have come at a better time, as the ways we relate to each other have become more sharply mediated by the internet.",
+        "role": "former director of product for communities at GitHub"
+      },
+      {
+        "name": "Henry Zhu",
+        "quote": "In the age of information abundance, we’re all maintainers now. _Working in Public_ is an anthropological dive into the stories of real developers, providing us a way to ask new questions through the lens of open source. Nadia presents us with a book that isn’t focused on just money, licenses, or code, but which is for all of us who make, as creators of all kinds.",
+        "role": "maintainer of Babel"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_[Wired](https://www.wired.com/story/open-source-coders-few-tired/)_",
+        "quote": "_Working in Public_ [is] a fascinating book\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;. We need to rethink the very idea of what crowdsourcing is capable of—and understand that it is perhaps more limited than promised. The open source revolution has been carried on the backs of some very weary people."
+      },
+      {
+        "name": "[Alex Danco](https://alexdanco.com/2020/10/08/making-is-show-business-now/)",
+        "quote": "Eghbal clearly sees and articulates something important about the way we make things, and how that’s changing.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;._Working in Public_ opens by challenging a common perception about open source today: the idea that it’s collaborative."
+      }
+    ],
+    "price": 22,
+    "productType": "book",
+    "slug": "working-in-public",
+    "summary": "Over the last 20 years, open source software has undergone a significant shift—from providing an optimistic model for public collaboration to undergoing constant maintenance by the often unseen solo operators who write and publish the code that millions of users rely on every day. In _Working in Public_, Nadia Eghbal takes an inside look at modern open source software development, its evolution over the last two decades, and its ramifications for an internet reorienting itself around individual creators. By delineating the structure of open source projects, she explores, for the first time, the maintenance costs of production that software incurs for its developers. Drawing on hundreds of developer interviews and analyses of platforms like Twitter, Facebook, Instagram, Twitch, and YouTube, Eghbal argues that examining _who_ produces things on the internet, and not just what they produce, helps us understand the value of online content today.",
+    "title": "Working in Public: The Making and Maintenance of Open Source Software",
+    "shortTitle": "Working in Public"
+  },
+  {
+    "author": {
+      "name": "Richard W. Hamming",
+      "bio": "Richard W. Hamming (1915–1998) was a scientist and mathematician who discovered formulas that allow computers to correct their own errors. He provided crucial programming support to the Manhattan Project, and later joined Bell Labs. In 1968, he received the Turing Award, the highest honor in computer science."
+    },
+    "buyPath": "https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178/ref=sr_1_1?dchild=1\u0026keywords=The+Art+of+Doing+Science+and+Engineering\u0026qid=1590087581\u0026sr=8-1",
+    "description": "A groundbreaking treatise by one of the great mathematicians of our time, who argues that highly effective thinking can be learned.",
+    "material": {
+      "shininess": 12,
+      "thickness": 3.4,
+      "diffuseMapCustom": "TADSE_diffuse",
+      "diffuseBaseColor": [0.3, 0.328, 0.277],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.05,
+      "bumpMapCustom": "TADSE_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "TADSE_foil",
+      "foilDetail": 1,
+      "foilSpecular": 0.4,
+      "foilOpacity": 0.75,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#F9C350",
+      "backgroundColor": "#303328",
+      "coverColor": "#50514A"
+    },
+    "praiseList": [
+      {
+        "name": "Andy Matuschak",
+        "quote": "Hamming is here to tell you about excellence. His lessons unfold through personal stories of discovery and failure—life as an extraordinary scientist. But Hamming demands that you do extraordinary work, too, and for that he offers the best advice I know.",
+        "role": "software engineer, designer, and researcher"
+      },
+      {
+        "name": "Bret Victor",
+        "quote": "Hamming was always as much a teacher as a scientist, and, having spent a lifetime forming and confirming a theory of great people, he felt he could prepare the next generation for even greater greatness. That’s the premise and promise of this book.",
+        "role": "founder of Dynamicland"
+      },
+      {
+        "name": "Eugene N. Miya",
+        "quote": "Your last chance to read the thinking of one of the major intellects that the U.S.A. has produced.",
+        "role": "NASA researcher"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_[New Yorker](https://www.newyorker.com/culture/2020-in-review/the-best-books-we-read-in-2020)_, which named _The Art of Doing Science and Engineering_ a best book of 2020",
+        "quote": "[Hamming] was one of the last geniuses who believed in innovation as a shared public project."
+      }
+    ],
+    "price": 23,
+    "productType": "book",
+    "slug": "the-art-of-doing-science-and-engineering",
+    "summary": "What inspires a great idea? Can we train our thinking to develop world-changing understandings and insights? Richard Hamming would say yes. In _The Art of Doing Science and Engineering_, he elaborates on his seminal essay “You and Your Research,” a provocative challenge to anyone who wants to build something great, and offers a manual of style for how to get there. Playfully framed as a textbook, and rich in its recounting of influential individuals like Albert Einstein and Grace Hopper, this unorthodox memoir by the seminal mathematician and engineer encourages the reader to aspire to, learn from, and surpass the achievements of yesterday’s greatest minds. This edition includes the original 1996 compilation of Hamming’s lectures for the U.S. Naval Postgraduate School, along with a new foreword by designer and engineer Bret Victor and more than 70 redrawn graphs and charts.",
+    "title": "The Art of Doing Science and Engineering",
+    "video": {
+      "url": "https://www.notion.so/blog/a-roundtable-on-richard-hamming",
+      "poster": "https://images.ctfassets.net/fzn2n1nzq965/4wzfOi4wL517XqgfOm0hzB/5aa55936a82dca5e15cbd34fb79fece3/TADSE_poster.jpg",
+      "title": "A roundtable on Richard Hamming"
+    },
+    "zine": {
+      "cover": "https://images.ctfassets.net/fzn2n1nzq965/2q0zkzmadOr2qY22zjUY9l/0ee84e54ff3a44c28993120d7a6474c9/image__17_.svg",
+      "pdf": "https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf"
+    }
+  },
+  {
+    "author": {
+      "name": "Jordan Mechner",
+      "bio": "Jordan Mechner is a game designer, screenwriter, and author. His other books include the sketchbook journal _Year 2 in France_ and the Eisner Award-nominated graphic novel _Templar_, a _New York Times_ bestseller illustrated by LeUyen Pham and Alex Puvilland.",
+      "links": [
+        { "label": "Website", "url": "https://jordanmechner.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/jmechner" }
+      ]
+    },
+    "buyPath": "https://smile.amazon.com/gp/product/0578627310?pf_rd_r=HMREHVABQXQXVW97F1V0\u0026pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8",
+    "description": "An illustrated and annotated edition of the journals kept by the iconic video game’s creator, offering an unvarnished look at the creative process.",
+    "material": {
+      "shininess": 10,
+      "thickness": 3.4,
+      "diffuseMapCustom": "POP_diffuse",
+      "diffuseBaseColor": [0.114, 0.376, 0.682],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.05,
+      "bumpMapCustom": "POP_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "shared_foil_none",
+      "reflectiveness": 0.03
+    },
+    "palette": {
+      "color": "#EF9E40",
+      "backgroundColor": "#2328A0",
+      "coverColor": "#5460B0"
+    },
+    "praiseList": [
+      {
+        "name": "Mike Krieger",
+        "quote": "_Prince of Persia_ was the first computer game I ever fell in love with. Mechner’s journey is a universal one for anyone creating something brand-new, and it brought me back to the early, crazy days of building Instagram.",
+        "role": "cofounder of Instagram"
+      },
+      {
+        "name": "D.B. Weiss",
+        "quote": "Mechner’s journals are a unique record from the birth of an industry. _The Making of Prince of Persia_ is also an unvarnished window into the creative process, with all its excitement, toil, setbacks, doubts, and triumphs. A fantastic read.",
+        "role": "cocreator of HBO’s _Game of Thrones_"
+      },
+      {
+        "name": "Neil Druckmann",
+        "quote": "Probably my favorite book on game development.",
+        "role": "writer and director of _The Last of Us_ and _Uncharted 4_"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "[Cory Doctorow](https://pluralistic.net/2020/05/03/give-me-slack/#pop)",
+        "quote": "It’s a genuinely delightful book, even if you don’t care about the history of video games.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.To read Mechner’s contemporaneous logs of his wrestling with his tools and machines is to take a journey back to a heroic age of games authorship."
+      },
+      {
+        "name": "_[Applied Divinity Studies](https://applieddivinitystudies.com/prince-of-persia/)_",
+        "quote": "The best biography I’ve ever read."
+      }
+    ],
+    "price": 23,
+    "productType": "book",
+    "slug": "the-making-of-prince-of-persia",
+    "summary": "Before _Prince of Persia_ was a bestselling video game franchise and a Disney movie, it was an Apple II computer game created and programmed by a lone developer, Jordan Mechner. Mechner’s candid and revealing journals from the time capture the journey from his parents’ basement to the forefront of the fast-growing 1980s video game industry, as a 20-year-old fresh out of college with a liberal arts degree—and the creative, technical, personal, and professional struggles that brought the Prince into the homes of millions of people worldwide. In _The Making of Prince of Persia_, on the 30th anniversary of the game’s release, Mechner looks back at the journals he kept from 1985 to 1993 and annotates them with insights into the game that established him as a pioneer of cinematic storytelling in the industry.",
+    "title": "The Making of Prince of Persia: Journals 1985-1993",
+    "shortTitle": "The Making of Prince of Persia"
+  },
+  {
+    "author": {
+      "name": "Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto",
+      "bio": "Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto founded People \u0026 Company, which helps organizations build communities. In 2021, People \u0026 Company was acquired by Substack.",
+      "isMultiple": true,
+      "links": [
+        {
+          "label": "Podcast",
+          "url": "https://itunes.apple.com/us/podcast/the-get-together/id1447445682"
+        },
+        { "label": "Website", "url": "https://www.people-and.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/people_and_co" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/Get-Together-Build-Community-People/dp/1732265194/ref=sr_1_6?keywords=get+together+bailey+richardson\u0026qid=1562594471\u0026s=gateway\u0026sr=8-6",
+    "description": "A practical and heartfelt guide to cultivating a community: people who come together over shared passions.",
+    "material": {
+      "shininess": 20,
+      "thickness": 2.4,
+      "diffuseMapCustom": "GT_diffuse",
+      "diffuseBaseColor": [0.968, 0.411, 0.082],
+      "bumpMapBase": "shared_bump_paper",
+      "bumpScaleBase": 0.07,
+      "bumpMapCustom": "GT_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "GT_foil",
+      "foilDetail": 1.5,
+      "foilEmissive": 0.5,
+      "foilSpecular": -0.1,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#452121",
+      "backgroundGradient": "linear-gradient(#ff815a, #ffaf5b, #ffdf5b)",
+      "backgroundColor": "#ff9e5a",
+      "coverColor": "#FFDF5E"
+    },
+    "praiseList": [
+      {
+        "name": "Alisha Ramos",
+        "quote": "I highly recommend _Get Together_ for anyone who’s looking to crack the code on building a community.",
+        "role": "founder of Girls’ Night In"
+      },
+      {
+        "name": "Dave Isay",
+        "quote": "_Get Together_ is a generous, practical, and heartfelt guide to creating community in the digital age. With no jargon and no nonsense, Bailey, Kevin, and Kai lay out simple steps for helping people come together in meaningful and powerful ways.",
+        "role": "founder of StoryCorps"
+      },
+      {
+        "name": "Robert Wang",
+        "quote": "_Get Together_ tells the stories and reveals the insights of community building. Don’t start one without reading this book.",
+        "role": "founder of Instant Pot"
+      }
+    ],
+    "price": 23,
+    "productType": "book",
+    "slug": "get-together",
+    "summary": "Although communities feel magical, they don’t come together by magic. Whether starting a run crew, connecting with fans online, or sparking a movement of K-12 teachers, the secret to getting people together is to build your community _with_ people, not for them. In _Get Together_, the founders of the community strategy agency People \u0026 Company—Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto—provide a practical and heartfelt guide to create thriving communities, both in person and online. The authors break down into clear steps the challenges of getting passionate people together, help individuals and organizations navigate the intricacies of leading a community, and share true stories of everyday people who have created vibrant communities. _Get Together_ shows that if we join forces—as company and customers, artist and fans, organizer and advocates—we’ll do more together than we ever could alone.",
+    "title": "Get Together: How to Build a Community With Your People",
+    "shortTitle": "Get Together",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fLky6QynDt4\u0026list=PLcoWp8pBTM3C9yb6Bgi3_vWrio2QX7Df0\u0026index=6",
+      "poster": "https://images.ctfassets.net/fzn2n1nzq965/23CdIV32SLdeMpnnh6znE7/db394c093945c987751c15a42150464d/GT_poster.png",
+      "title": "Conversation with People \u0026 Co."
+    }
+  },
+  {
+    "author": {
+      "name": "Will Larson",
+      "bio": "Will Larson has been an engineering leader at technology companies including Yahoo, Digg, Uber, Stripe, and Calm. _An Elegant Puzzle_ draws from writing on his blog, _[Irrational Exuberance](https://lethain.com/)_. He is also the author of the book _[Staff Engineer](https://lethain.com/staff-engineer/)_.",
+      "links": [
+        { "label": "Twitter", "url": "https://twitter.com/Lethain" },
+        { "label": "Website", "url": "https://lethain.com/" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/dp/1732265186",
+    "description": "A guide to engineering management that helps leaders create organizations where engineers can thrive.",
+    "material": {
+      "shininess": 8,
+      "thickness": 3.4,
+      "diffuseMapCustom": "AEP_diffuse",
+      "diffuseBaseColor": [0.0862, 0.0862, 0.0862],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.04,
+      "bumpMapCustom": "AEP_bump",
+      "bumpScaleCustom": 0.05,
+      "foilMap": "AEP_foil",
+      "foilDetail": 1,
+      "foilSpecular": 0.1,
+      "foilOpacity": 1,
+      "reflectiveness": 0.04
+    },
+    "palette": {
+      "color": "#dbdbdb",
+      "backgroundColor": "#2F2F2F",
+      "coverColor": "#D7D7D7"
+    },
+    "praiseList": [
+      {
+        "name": "Cindy Sridharan",
+        "quote": "_An Elegant Puzzle_ is a masterful study of the challenges and demands of the discipline of engineering management, viewed through the prism of systems thinking. Readers can expect an actionable template for addressing complex problems with finesse, creativity, and fairness.",
+        "role": "distributed systems engineer and author of _Distributed Systems Observability_"
+      },
+      {
+        "name": "Jeffrey Meyerson",
+        "quote": "Software engineering is evolving faster than ever before. In _An Elegant Puzzle_, Will Larson captures the timeless spirit of creative problem-solving that draws us to software engineering, while also providing concrete strategies for modern organizations.",
+        "role": "host of the _Software Engineering Daily_ podcast"
+      },
+      {
+        "name": "Oren Ellenbogen",
+        "quote": "Engineering managers can often feel like they are struggling to keep their heads above the water. Our technical training is missing the frameworks and tools needed to build healthy and productive teams. The insights and step-by-step approach covered in _An Elegant Puzzle_ will become your favorite go-to resource.",
+        "role": "VP of engineering at Forter"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "[Gergely Orosz](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/)",
+        "quote": "_An Elegant Puzzle_ is to date the most hands-on perspective on engineering management within a high-growth, tech-first organization, that I have read.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.[It] is not just for engineering managers: product managers and engineers working at high-growth companies will find it a good read."
+      },
+      {
+        "name": "_[Software Engineering Daily](https://softwareengineeringdaily.com/2019/06/14/elegant-puzzle-with-will-larson/)_",
+        "quote": "Larson captures the timeless spirit of creative problem-solving that draws us to software engineering while also providing concrete strategies for modern organizations."
+      }
+    ],
+    "price": 22,
+    "productType": "book",
+    "slug": "an-elegant-puzzle",
+    "summary": "While management is foundational to any organization, engineering management in particular presents its own set of challenges—especially in high-growth environments. How and when should your engineers pay down technical debt? How do you tackle a seemingly endless stream of migrations? How do you ensure that each engineer on your team is growing at the right pace? Will Larson’s _An Elegant Puzzle_ explores the specific challenges of engineering management—from sizing teams to handling technical debt to developing succession planning—and provides a guide to solving complex managerial problems. Drawing on his experience at Digg, Uber, and Stripe, Larson presents a thoughtful approach to engineering management that balances structured principles with human-centric thinking. A useful primer for engineering leaders of all levels at companies of all sizes, _An Elegant Puzzle_ lays out a road map for building organizations where engineers can thrive.",
+    "title": "An Elegant Puzzle: Systems of Engineering Management",
+    "shortTitle": "An Elegant Puzzle"
+  },
+  {
+    "author": {
+      "name": "Martin Gurri",
+      "bio": "Martin Gurri is a geopolitical analyst who specializes in the relationship between politics and global media. He spent 28 years analyzing open media at the CIA. _The Revolt of the Public_ draws from writing on his blog, _[The Fifth Wave](https://thefifthwave.wordpress.com)_.",
+      "links": [
+        { "label": "Website", "url": "https://thefifthwave.wordpress.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/mgurri" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143/ref=sr_1_1?ie=UTF8\u0026qid=1541823320\u0026sr=8-1\u0026keywords=revolt+of+the+public",
+    "description": "An account of how insurgencies, enabled by digital devices and a vast information sphere, have mobilized millions of ordinary people around the world and transformed how they view the elites.",
+    "material": {
+      "shininess": 11,
+      "thickness": 3.4,
+      "diffuseMapCustom": "ROTP_diffuse",
+      "diffuseBaseColor": [0.0, 0.184, 0.772],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.05,
+      "bumpMapCustom": "ROTP_bump",
+      "bumpScaleCustom": 0.05,
+      "foilMap": "ROTP_foil",
+      "foilDetail": 3,
+      "foilEmissive": 0.2,
+      "foilSpecular": -0.3,
+      "foilOpacity": 1.2,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#F366FF",
+      "backgroundColor": "#201E8E",
+      "coverColor": "#4756E5"
+    },
+    "praiseList": [
+      {
+        "name": "Marc Andreessen",
+        "quote": "All over the world, elite institutions, from governments to media to academia, are losing their authority and monopoly control of information to the broader public. This book has been my No. 1 handout to anyone seeking to understand this unfolding shift in power from hierarchies to networks in the age of the internet.",
+        "role": "cofounder of Andreessen Horowitz"
+      },
+      {
+        "name": "Arnold Kling",
+        "quote": "Martin Gurri saw it coming. When, without fanfare, he self-published the first edition in June of 2014, he did not specifically name Donald Trump or Brexit. But he saw how the internet in general and social media in particular were transforming the political landscape.",
+        "role": "economist and writer"
+      },
+      {
+        "name": "Roger Berkowitz",
+        "quote": "We are in an open war between publics with passionate and untutored interests and elites who believe they have the right to guide those publics. Gurri asks the essential question: Can liberal representative democracy survive the rise of the publics?",
+        "role": "founder of the Hannah Arendt Center and professor of politics and human rights at Bard College"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_[Vox](https://www.vox.com/future-perfect/22301496/martin-gurri-the-revolt-of-the-public-global-democracy)_",
+        "quote": "“The internet has been a marvelous invention in lots of ways, but it has also unleashed a tsunami of misinformation and destabilized political systems across the globe. Martin Gurri .\u0026nbsp;.\u0026nbsp;. was way ahead of the curve on this problem."
+      },
+      {
+        "name": "_[New York Times](https://www.nytimes.com/2021/01/28/technology/gamestop-stock.html)_",
+        "quote": "Mr. Gurri writes that the internet has empowered ordinary citizens by giving them new information and tools, which they then use to discover the flaws in the systems and institutions that govern their lives."
+      }
+    ],
+    "price": 20,
+    "productType": "book",
+    "slug": "the-revolt-of-the-public",
+    "summary": "When it comes to the flow of information, technology has categorically reversed the balance of power between the public and the elites who manage the great hierarchical institutions of the industrial age—government, political parties, and the media. In _The Revolt of the Public_, Martin Gurri tells the story of how insurgencies, enabled by digital devices and a vast information sphere, have mobilized millions of ordinary people around the world. Originally published in 2014, _The Revolt of the Public_ now appears in an updated edition, which includes an extensive analysis of Donald Trump’s improbable rise to the presidency and the electoral triumphs of Brexit. Gurri concludes with a look forward, considering whether the current elite class can bring about a reformation of the democratic process, and whether new organizing principles, adapted to a digital world, can arise out of the present political turbulence.",
+    "title": "The Revolt of the Public and the Crisis of Authority in the New Millennium",
+    "shortTitle": "The Revolt of the Public",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2LWn2XAStVg\u0026list=PLcoWp8pBTM3C9yb6Bgi3_vWrio2QX7Df0\u0026index=4",
+      "poster": "https://images.ctfassets.net/fzn2n1nzq965/1Zgynjxmp1LI9rIBuwI06e/c1583d5b31293ed068dfabbb79868b86/Frame_384.png",
+      "title": "Conversation with Martin Gurri"
+    }
+  },
+  {
+    "author": {
+      "name": "Tyler Cowen",
+      "bio": "Tyler Cowen is a professor of economics at George Mason University and director of the Mercatus Center. He was named in an _Economist_ poll as one of the most influential economists of the past decade. He is the author of several books, including the _New York Times_ bestseller _The Great Stagnation_, and is an opinion columnist at Bloomberg. He also cowrites the blog _[Marginal Revolution](https://marginalrevolution.com)_ and hosts the podcast _[Conversations with Tyler](https://conversationswithtyler.com)_.",
+      "links": [
+        { "label": "Website", "url": "https://marginalrevolution.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/tylercowen" },
+        { "label": "Podcast", "url": "https://conversationswithtyler.com/" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/ref=sr_1_1?s=books\u0026ie=UTF8\u0026qid=1534253238\u0026sr=1-1\u0026keywords=stubborn+attachments",
+    "description": "The contemporary moral case for economic growth, and a road map for forward-looking, ambitious, and altruistic thinking, by the seminal economist.",
+    "material": {
+      "shininess": 14,
+      "thickness": 2.4,
+      "diffuseMapCustom": "SA_diffuse",
+      "diffuseBaseColor": [0.902, 0.188, 0.145],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.06,
+      "bumpMapCustom": "SA_bump",
+      "bumpScaleCustom": 0.3,
+      "foilMap": "SA_foil",
+      "foilDetail": 4,
+      "foilSpecular": 0.35,
+      "foilOpacity": 0.2,
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#222222",
+      "backgroundColor": "#FFA6A6",
+      "coverColor": "#F9DDE3"
+    },
+    "praiseList": [
+      {
+        "name": "Cardiff Garcia",
+        "quote": "Most of Tyler’s books will change how you see the world in a myriad of small ways. _Stubborn Attachments_ might well change the way you see the world in one very big way. Whether you agree or disagree with Tyler’s argument, I think you’ll find that following the logic in _Stubborn Attachments_ is as fun as it is intellectually provocative.",
+        "role": "cohost of the NPR podcast _The Indicator from Planet Money_"
+      },
+      {
+        "name": "Cass R. Sunstein",
+        "quote": "Tyler Cowen is a national treasure, and _Stubborn Attachments_ is brimming with deep insights–about the immense importance of economic growth, moral obligations, rights, and how to think about the future. It’s a book for right now, and a book for all times. A magnificent achievement.",
+        "role": "Robert Walmsley University Professor at Harvard and bestselling author of _Nudge_"
+      },
+      {
+        "name": "Tim Harford",
+        "quote": "Tyler Cowen is one of the most intriguing and eclectic thinkers on the planet—like many people, I read something by him every day. In _Stubborn Attachments_, he combines economics and philosophy in a truly important achievement. His best, most ambitious, and most personal work.",
+        "role": "author of _The Undercover Economist_"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_[New Yorker](https://www.newyorker.com/culture/annals-of-inquiry/being-in-time)_",
+        "quote": "The thing about economic growth, Cowen tells us, is that it has the potential to advance just about everything that people value.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.There is considerable evidence supporting the commonsense view that citizens of rich countries are happier than citizens of poor countries, and that, within rich countries, wealthier individuals are happier than poorer ones."
+      },
+      {
+        "name": "[Noah Smith](http://noahpinionblog.blogspot.com/2019/01/book-review-stubborn-attachments-by.html)",
+        "quote": "_Stubborn Attachments_ is a philosophy book.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.[Tyler] doesn’t try to set out an absolute, formalistic, fully internally consistent system of ethical principles—instead, he embraces an eclectic, often conflicting set of principles. This is refreshing, since rigid systems always prove fragile to intuitive counterexamples."
+      },
+      {
+        "name": "_[Los Angeles Review of Books](https://blog.lareviewofbooks.org/reviews/human-rights-case-economic-growth-tyler-cowens-stubborn-attachments/)_",
+        "quote": "_Stubborn Attachments_ presents a compelling case for redefining our long-term priorities in favor of more sustained economic growth and a greater respect for human rights."
+      }
+    ],
+    "price": 17,
+    "productType": "book",
+    "slug": "stubborn-attachments",
+    "summary": "Throughout history, economic growth has alleviated human misery, improved human happiness and opportunity, expanded political rights, and lengthened human lives. If we want to prolong growth trends and the overwhelmingly positive outcomes for societies that come with them, every individual must become more concerned with the welfare of those around us. So how do we enable such altruism? In _Stubborn Attachments_—a culmination of 20 years of philosophical and economic thinking and research—Tyler Cowen argues that reason and common sense can help free us of the faulty ideas that hold us back as people and as a society, allowing us to set our sights on the long-term struggles that maximize sustainable economic growth while respecting human rights. At its heart, _Stubborn Attachments_ makes the contemporary moral case for economic growth and delivers a dose of inspiration and optimism about the future.",
+    "title": "Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals",
+    "shortTitle": "Stubborn Attachments"
+  },
+  {
+    "author": {
+      "name": "M. Mitchell Waldrop",
+      "bio": "M. Mitchell Waldrop earned a PhD in elementary particle physics and a master’s in journalism at the University of Wisconsin. He has been a writer and editor at _Science and Nature_. He is the author of _Man-Made Minds_ (1987), a book about artificial intelligence, and _Complexity_ (1992), about the new sciences of complexity.",
+      "links": [
+        { "label": "Website", "url": "https://sites.google.com/view/mmwaldrop" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119/ref=sr_1_4?s=books\u0026ie=UTF8\u0026qid=1534249753\u0026sr=1-4\u0026keywords=the+dream+machine",
+    "description": "A biography of J. C. R. Licklider, the psychologist and scientist who inspired the work that led to the internet, and shifted our understanding of what computers could be.",
+    "material": {
+      "shininess": 10,
+      "thickness": 3.4,
+      "diffuseMapCustom": "TDM_diffuse",
+      "diffuseBaseColor": [0.564, 0.568, 0.584],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.05,
+      "bumpMapCustom": "TDM_bump",
+      "bumpScaleCustom": 0.1,
+      "foilMap": "TDM_foil",
+      "foilDetail": 1,
+      "foilEmissive": 0.25,
+      "foilSpecular": -0.25,
+      "foilOpacity": 0.8,
+      "reflectiveness": 0.3
+    },
+    "palette": {
+      "color": "#222222",
+      "backgroundGradient": "linear-gradient(#e7d4e5,#cad9e5,#eeebcc,#e9d8e3,#dbd4ed)",
+      "backgroundColor": "#cad9e5",
+      "coverColor": "#FBE1DF"
+    },
+    "praiseList": [
+      {
+        "name": "Alan Kay",
+        "quote": "When people ask me about Xerox PARC, I always tell them about J. C. R. Licklider—‘Lick’—and how he started the great research funding for interactive computing and pervasive worldwide networks, which have resulted in most of the technology we use today. The top book I recommend to read about this large process, which stretched over 20 years, is _The Dream Machine_ by Mitchell Waldrop.",
+        "role": "computer scientist"
+      },
+      {
+        "name": "John Seely Brown",
+        "quote": "A masterpiece! A mesmerizing but balanced and comprehensive look at the making of the information revolution—the people, the ideas, the tensions, and the hurdles.",
+        "role": "former director of Xerox PARC"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_[New York Times](https://www.nytimes.com/2001/10/07/books/the-electric-psychologist.html#:~:text=Mitchell%20Waldrop%20has%20written%20a,punch%20cards%20to%20personal%20computers.\u0026text=Convincing%20people%20that%20his%20crusade,his%20dream%20of%20interactive%20computing)_",
+        "quote": "A sprawling history of the ideas, individuals, and groups of people that got us from punch cards to personal computers .\u0026nbsp;.\u0026nbsp;. impressive .\u0026nbsp;.\u0026nbsp;. compelling."
+      },
+      {
+        "name": "_San Francisco Chronicle_",
+        "quote": "_The Dream Machine_ works admirably as an exploration of the intellectual and political roots of the rise of modern computing. It’s an ambitious and worthwhile addition to the history of science."
+      }
+    ],
+    "price": 22,
+    "productType": "book",
+    "slug": "the-dream-machine",
+    "summary": "Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J. C. R. Licklider. He wasn’t an engineer and he didn’t start a company or write code; instead, he was a relentless visionary who saw great potential in the way individuals could interact with computers and software. At a time when computers were a short step removed from mechanical data processors, Licklider was an enthusiastic catalyst for the seminal research that ultimately led to the internet. In a simultaneously compelling personal narrative and comprehensive historical exposition, _The Dream Machine_ by M. Mitchell Waldrop tells the story of the birth of the computing revolution through the life of a man who shifted our understanding of what computers were and could be. Originally published in 2001, the book now appears in a new edition, which includes the original texts of Licklider’s three most influential writings.",
+    "title": "The Dream Machine"
+  },
+  {
+    "author": {
+      "name": "Elad Gil",
+      "bio": "Elad Gil is an entrepreneur, operating executive, and investor or advisor to private companies such as Airbnb, Coinbase, Checkr, Gusto, Instacart, Opendoor, Pinterest, Square, Stripe, Wish, and others. He is cofounder and chairman at Color Genomics. _High Growth Handbook_ draws from writing on his [blog](http://blog.eladgil.com).",
+      "links": [
+        { "label": "Website", "url": "http://blog.eladgil.com/" },
+        { "label": "Twitter", "url": "https://twitter.com/eladgil" }
+      ]
+    },
+    "buyPath": "https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100",
+    "description": "The playbook for turning a startup into a unicorn, and for navigating the most complex challenges that confront leaders and operators in high-growth environments.",
+    "material": {
+      "shininess": 10,
+      "thickness": 3.4,
+      "diffuseMapCustom": "HGH_diffuse",
+      "diffuseBaseColor": [0.141, 0.176, 0.259],
+      "bumpMapBase": "shared_bump_buckram",
+      "bumpScaleBase": 0.05,
+      "bumpMapCustom": "HGH_bump",
+      "bumpScaleCustom": 0.3,
+      "foilMap": "shared_foil_none",
+      "reflectiveness": 0.1
+    },
+    "palette": {
+      "color": "#0AEB9A",
+      "backgroundColor": "#353f54",
+      "coverColor": "#262D3A"
+    },
+    "praiseList": [
+      {
+        "name": "Reid Hoffman",
+        "quote": "Elad Gil is one of Silicon Valley’s seriously knowledgeable and battle-tested players. If you want the chance to turn your startup into the next Google or Twitter, then read this trenchant guide from someone who played key roles in the growth of these companies.",
+        "role": "cofounder of LinkedIn"
+      },
+      {
+        "name": "Aaron Levie",
+        "quote": "Elad jam-packs every useful lesson about building and scaling companies into a single, digestible book.",
+        "role": "cofounder and CEO of Box"
+      },
+      {
+        "name": "Max Levchin",
+        "quote": "Armed with observations gathered while scaling some of the most successful and important companies of Silicon Valley, Elad has no-nonsense, highly applicable advice for any operator transitioning a company from the proverbial garage to the next stage, and beyond.",
+        "role": "cofounder and CEO of Affirm, cofounder and former CTO of PayPal"
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "_Wall Street Journal_",
+        "quote": "Many founders eventually face a moment in their company’s journey when they’ll need to scale the company and think much longer-term about success. Mr. Gil’s book walks founders through some of the steps and challenges they’ll face, such as the role of a board, mergers and acquisitions and more."
+      }
+    ],
+    "price": 20,
+    "productType": "book",
+    "slug": "high-growth-handbook",
+    "summary": "Global technology executive, serial entrepreneur, and angel investor Elad Gil has worked with high-growth tech companies like Airbnb, Twitter, Google, Stripe, and Square as they’ve scaled from small companies to global enterprises. Across all of these companies, Gil has identified a set of common patterns, and compiled them into a repeatable playbook in _High Growth Handbook_. In this definitive guide, he covers key topics for scaling startups from 10 or 20 employees to thousands, including the role of the CEO, board management, recruitment and management of executive teams, M\u0026A, IPOs, and late-stage funding. Informed by interviews with some of the most dynamic leaders in Silicon Valley, including Reid Hoffman, Marc Andreessen, and Aaron Levie, _High Growth Handbook_ presents a road map for navigating the most complex challenges that confront leaders and operators in high-growth startups.",
+    "title": "High Growth Handbook: Scaling Startups from 10 to 10,000 People",
+    "shortTitle": "High Growth Handbook"
+  },
+  {
+    "palette": {
+      "color": "#0AEB9A",
+      "backgroundColor": "#35453F",
+      "coverColor": "#FBE1DF"
+    },
+    "reviewList": [
+      {
+        "name": "[Rogerebert.com](https://www.rogerebert.com/festivals/the-sxsw-that-never-was-the-documentaries)",
+        "quote": "This is a deep dive into the history and life of a truly fascinating man who sees the ‘whole Earth’ in a way that you probably don’t."
+      },
+      {
+        "name": "_[Wired](https://www.wired.com/story/backward-looking-futurism-stewart-brand/)_",
+        "quote": "In We Are As Gods, Brand emerges as one of the signature players of the technological age, in and out of the most important rooms at just the right moments in history.\u0026nbsp;.\u0026nbsp;.\u0026nbsp;.The filmmakers, David Alvarado and Jason Sussberg, portray Brand as that rare kind of tech prophet, a man who never looks back. A true, uncompromising futurist."
+      },
+      {
+        "name": "_[For Reel Movie News \u0026 Reviews](https://www.moviesforreel.net/home/2021/3/17/sxsw-2021-directors-jason-sussberg-and-david-alvarado-stay-on-brand-covering-stewart-brand-in-we-are-as-gods)_",
+        "quote": "What’s most admirable about We Are As Gods is the documentary’s ability to present Brand’s climate change message while also demonstrating the struggles and roadblocks to making that happen."
+      }
+    ],
+    "productType": "film",
+    "slug": "we-are-as-gods",
+    "summary": "“We are as gods and might as well get good at it,” wrote Stewart Brand in 1968, as the opening sentence to the now iconic Whole Earth Catalog. For decades, Brand has had an uncanny ability to push “ideas that seem at the edge of believability,” accelerating progress in culture, technology, environmentalism, and more. His approach to work and life influenced many technologists who have gone on to shape our modern world, including Steve Jobs. We Are As Gods, produced by Stripe Press, is the first feature film about Brand’s remarkable life. Marrying never-before-seen footage with contemporary interviews, the film chronicles his journey, from his early days with Ken Kesey and the Merry Pranksters through the birth of the personal computing revolution, to his latest quest to reorient environmentalism.",
+    "title": "We Are As Gods"
+  }
+]
