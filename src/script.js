@@ -40,22 +40,9 @@ const sharedBumpTexture = textureLoader.load(
   "/textures/shared_bump_buckram.jpeg"
 );
 
-// diffuseTexture.flipY = false;
-// metalnessTexture.flipY = false;
-
 /**
  * Materials
  */
-const material = new THREE.MeshPhongMaterial({
-  map: diffuseTexture,
-});
-material.metalness = 0.5;
-material.roughness = 0.5;
-material.metalnessMap = metalnessTexture;
-material.bumpMap = bumpTexture;
-gui.add(material, "metalness").min(0).max(1).step(0.0001);
-gui.add(material, "roughness").min(0).max(1).step(0.0001);
-
 const material121 = {
   shininess: 8,
   thickness: 2.85,
@@ -355,6 +342,62 @@ const shaderMaterial = new THREE.ShaderMaterial({
     derivatives: !0,
   },
 });
+
+console.log(shaderMaterial);
+gui
+  .add(shaderMaterial.uniforms.thickness, "value")
+  .name("thickness")
+  .min(0)
+  .max(10)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.bumpScaleBase, "value")
+  .name("bumpScaleBase")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.shininess, "value")
+  .name("shininess")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.glossiness, "value")
+  .name("glossiness")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.reflectiveness, "value")
+  .name("reflectiveness")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.bumpScaleCustom, "value")
+  .name("bumpScaleCustom")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.foilDetail, "value")
+  .name("foilDetail")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.foilOpacity, "value")
+  .name("foilOpacity")
+  .min(0)
+  .max(1)
+  .step(0.0001);
+gui
+  .add(shaderMaterial.uniforms.foilSpecular, "value")
+  .name("foilSpecular")
+  .min(0)
+  .max(1)
+  .step(0.0001);
 
 /**
  * Load the Book as GLTF
